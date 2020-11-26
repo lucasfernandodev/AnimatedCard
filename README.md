@@ -1,6 +1,6 @@
 # AnimatedCard
 
-[Animated Card preview](https://github.com/lucasfernandodev/AnimatedCard/blob/master/assets/img/screen.gif?raw=true)
+[Animated Card preview](https://lucasfernandodev.github.io/AnimatedCard/assets/img/adidas.png)
 
 
 Animated card with css and javascript.
