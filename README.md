@@ -1,6 +1,6 @@
 # AnimatedCard
 
-[Funcionamento da animação do form](./assets/img/screen.gif)
+[Funcionamento da animação do form](./assets/img/screen.gif?raw=true)
 
 
 Animated card with css and javascript.
