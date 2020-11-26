@@ -1,6 +1,6 @@
 # AnimatedCard
 
-<img stc="./assets/img/screen.gif?raw=true" alt="Animated Card preview" style="margin: 0 auto;"/>
+<img stc="https://github.com/lucasfernandodev/AnimatedCard/blob/master/assets/img/screen.gif?raw=true" alt="Animated Card preview" style="margin: 0 auto;"/>
 
 Animated card with css and javascript.
 Created from <a href="https://github.com/developedbyed">developedbyed</a> video lesson.
